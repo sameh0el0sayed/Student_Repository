@@ -1,2 +1,2 @@
 # Student_Repository
-Spring boot Repository Project Example
+Spring Boot Repository Project Example
